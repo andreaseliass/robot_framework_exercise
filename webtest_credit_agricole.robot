@@ -22,5 +22,5 @@ Exercise Test
     Add Product To Cart
     Go To Cart
     Verify Products In Cart
-    # Verify Total Product Value
+    Verify Total Product Value
 
